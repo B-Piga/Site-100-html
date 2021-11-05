@@ -1,0 +1,27 @@
+#mais{display: none}
+
+h1{
+	text-align: center; 
+	font-family: 'Unica One';
+	color: White;
+	font-size: 100;
+}
+
+font{
+	font-family: 'Zen Dots';
+	color: White;
+}
+table {
+	border: 5px solid black;
+	border-spacing: 10px;
+	color: white;
+	align-content: center;
+	font-family: 'Arial';
+}
+body{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+a{
+	color:white;
+}
